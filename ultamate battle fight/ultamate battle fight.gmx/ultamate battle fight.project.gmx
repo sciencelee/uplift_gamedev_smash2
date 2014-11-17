@@ -16,6 +16,7 @@
     <sprite>sprites\sprite_naruto</sprite>
     <sprite>sprites\sprite_naruto_punch</sprite>
     <sprite>sprites\sprite_flour</sprite>
+    <sprite>sprites\sprite8</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -25,13 +26,14 @@
     <object>objects\object_gaku</object>
     <object>objects\object_naruto</object>
     <object>objects\object_groud</object>
+    <object>objects\object_punch</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
     <room>rooms\room2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41955.9704172222</constant>
+    <constant name="GM_build_date">41960.9819553009</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
