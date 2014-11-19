@@ -22,18 +22,20 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_wall_ground</object>
-    <object>objects\object_luffy</object>
-    <object>objects\object_gaku</object>
-    <object>objects\object_naruto</object>
+    <object>objects\object_parent</object>
+    <object>objects\player2</object>
+    <object>objects\player1</object>
     <object>objects\object_groud</object>
     <object>objects\object_punch</object>
+    <object>objects\object_player2_punch</object>
+    <object>objects\object_player1_punch</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
     <room>rooms\room2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41960.9819553009</constant>
+    <constant name="GM_build_date">41960.9873980324</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>

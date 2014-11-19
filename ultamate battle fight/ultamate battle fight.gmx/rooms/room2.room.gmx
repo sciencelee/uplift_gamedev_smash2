@@ -74,7 +74,7 @@
     <instance objName="object_wall_ground" x="640" y="480" name="inst_F8214911" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall_ground" x="672" y="480" name="inst_DC262DE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall_ground" x="704" y="480" name="inst_07510C5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_luffy" x="96" y="416" name="inst_E84EAB3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_parent" x="96" y="416" name="inst_E84EAB3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
