@@ -20,6 +20,10 @@
     <sprite>sprites\sprite_naruto_punch</sprite>
     <sprite>sprites\sprite_flour</sprite>
     <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite_luffy_run</sprite>
+    <sprite>sprites\sprite_luffy_runleft</sprite>
+    <sprite>sprites\sprite_goku_run</sprite>
+    <sprite>sprites\sprite_goku_runleft</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -38,7 +42,7 @@
     <room>rooms\room2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41963.9324365741</constant>
+    <constant name="GM_build_date">41963.9475603125</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
