@@ -25,6 +25,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
+    <object>objects\object9</object>
     <object>objects\object2</object>
     <object>objects\object3</object>
     <object>objects\object4</object>
@@ -41,7 +42,7 @@
     <room>rooms\room3</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41960.9609178125</constant>
+    <constant name="GM_build_date">41962.9900203935</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
