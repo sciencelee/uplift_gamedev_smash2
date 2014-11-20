@@ -9,6 +9,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite_goku_stand</sprite>
+    <sprite>sprites\sprite_standleft</sprite>
     <sprite>sprites\sprite_goku_punch</sprite>
     <sprite>sprites\sprite_wall_ground</sprite>
     <sprite>sprites\sprite_luffy</sprite>
@@ -37,7 +38,7 @@
     <room>rooms\room2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41962.9891541319</constant>
+    <constant name="GM_build_date">41963.9324365741</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
