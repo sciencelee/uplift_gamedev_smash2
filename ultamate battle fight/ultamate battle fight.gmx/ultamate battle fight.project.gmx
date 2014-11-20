@@ -17,8 +17,16 @@
     <sprite>sprites\sprite_naruto_punch</sprite>
     <sprite>sprites\sprite_flour</sprite>
     <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sprite12</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
+    <background>background\background3</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_wall_ground</object>
@@ -29,13 +37,18 @@
     <object>objects\object_punch</object>
     <object>objects\object_player2_punch</object>
     <object>objects\object_player1_punch</object>
+    <object>objects\object8</object>
+    <object>objects\object9</object>
+    <object>objects\object10</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room5</room>
+    <room>rooms\room4</room>
     <room>rooms\room1</room>
-    <room>rooms\room2</room>
+    <room>rooms\room3</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41963.9253688889</constant>
+    <constant name="GM_build_date">41963.9442786806</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
