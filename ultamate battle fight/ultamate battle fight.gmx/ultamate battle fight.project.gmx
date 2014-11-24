@@ -8,23 +8,27 @@
     <sound>sound\sound0</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\sprite_goku_stand</sprite>
-    <sprite>sprites\sprite_goku_punch</sprite>
+    <sprite>sprites\sprite_goku_stand_right</sprite>
+    <sprite>sprites\sprite_goku_stand_left</sprite>
+    <sprite>sprites\sprite_goku_punch_right</sprite>
+    <sprite>sprites\sprite_goku_punch_left</sprite>
     <sprite>sprites\sprite_wall_ground</sprite>
-    <sprite>sprites\sprite_luffy</sprite>
-    <sprite>sprites\sprite_luffy_punch</sprite>
+    <sprite>sprites\sprite_luffy_standing_right</sprite>
+    <sprite>sprites\sprite_luffy_standing_left</sprite>
+    <sprite>sprites\sprite_luffy_punch_right</sprite>
+    <sprite>sprites\sprite_luffy_punch_left</sprite>
     <sprite>sprites\sprite_naruto</sprite>
     <sprite>sprites\sprite_naruto_punch</sprite>
-    <sprite>sprites\sprite_flour</sprite>
-    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite_floor</sprite>
+    <sprite>sprites\sprite_punch</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_wall_ground</object>
     <object>objects\object_parent</object>
-    <object>objects\player2</object>
     <object>objects\player1</object>
+    <object>objects\player2</object>
     <object>objects\object_groud</object>
     <object>objects\object_punch</object>
     <object>objects\object_player2_punch</object>
@@ -35,7 +39,7 @@
     <room>rooms\room2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41960.9873980324</constant>
+    <constant name="GM_build_date">41967.1348489583</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
